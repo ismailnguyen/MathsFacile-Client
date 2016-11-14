@@ -1,0 +1,14 @@
+﻿<div class="jumbotron">
+    <h1>Type a mathematic expression</h1>
+    <br/>
+    <p class="lead"><input id="formula" type="text" placeholder="Eg. 4+4" /></p>
+    <p><button id="calcul" class="btn btn-primary btn-lg">Calcul</button></p>
+</div>
+
+<script src="/Scripts/jquery-1.10.2.js"></script>
+
+<script>
+    $('#calcul').click(function () {
+        $.post('/Home/Calcul', { formula: $('#formula').val() }, function (res) { alert(res); });
+    });
+</script>

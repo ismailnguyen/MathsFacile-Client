@@ -28,7 +28,7 @@ namespace MathsFacileClient
                 IRestResponse response = client.Execute(request);
                 var content = response.Content; // raw content as string
 
-                Console.WriteLine("= " + response.Content + "\n");
+                Console.WriteLine("= " + content + "\n");
             }
         }
     }
