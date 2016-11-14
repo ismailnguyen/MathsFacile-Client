@@ -7,19 +7,29 @@ namespace MathsFacileClient
     {
         static void Main(string[] args)
         {
-            var client = new RestClient("http://mathsfacileapi20161107121521.azurewebsites.net");
+            while (true)
+            {
+                Console.WriteLine("Type a mathematic expression: (exit to stop)");
 
-            var request = new RestRequest("calcul/", Method.POST);
+                var input = Console.ReadLine();
 
-            request.AddJsonBody("4+4*4/12");
+                if (input.Equals("exit", StringComparison.OrdinalIgnoreCase))
+                {
+                    break;
+                }
 
-            // execute the request
-            IRestResponse response = client.Execute(request);
-            var content = response.Content; // raw content as string
+                var client = new RestClient("http://mathsfacileapi20161107121521.azurewebsites.net");
 
-            Console.WriteLine(response.Content);
+                var request = new RestRequest("calcul/", Method.POST);
 
-            Console.Read();
+                request.AddJsonBody(input);
+
+                // execute the request
+                IRestResponse response = client.Execute(request);
+                var content = response.Content; // raw content as string
+
+                Console.WriteLine("= " + response.Content + "\n");
+            }
         }
     }
 }
