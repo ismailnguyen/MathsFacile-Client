@@ -63,7 +63,7 @@ namespace MathsFacileClient.Tests
 
             var result = homeController.Calcul(calcul);
 
-            Assert.AreNotEqual(result, "2");
+            Assert.AreEqual(result, "2");
         }
     }
 }
