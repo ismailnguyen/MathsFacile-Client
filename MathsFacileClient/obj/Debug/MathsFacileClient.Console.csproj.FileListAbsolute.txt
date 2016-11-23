@@ -1,0 +1,8 @@
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient\bin\Debug\MathsFacileClient.exe.config
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient\obj\Debug\MathsFacileClient.exe
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient\obj\Debug\MathsFacileClient.pdb
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient\bin\Debug\MathsFacileClient.exe
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient\bin\Debug\MathsFacileClient.pdb
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient\bin\Debug\RestSharp.dll
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient\bin\Debug\RestSharp.xml
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient\obj\Debug\MathsFacileClient.Console.csprojResolveAssemblyReference.cache
