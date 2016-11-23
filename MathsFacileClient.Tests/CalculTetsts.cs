@@ -55,7 +55,7 @@ namespace MathsFacileClient.Tests
         }
 
         [TestMethod]
-        public void Should_fail()
+        public void Should_not_fail()
         {
             var homeController = new HomeController();
 
@@ -63,7 +63,7 @@ namespace MathsFacileClient.Tests
 
             var result = homeController.Calcul(calcul);
 
-            Assert.AreEqual(result, "2");
+            Assert.AreNotEqual(result, "2");
         }
     }
 }
