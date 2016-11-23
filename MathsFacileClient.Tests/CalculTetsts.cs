@@ -59,11 +59,11 @@ namespace MathsFacileClient.Tests
         {
             var homeController = new HomeController();
 
-            var calcul = "5";
+            var calcul = "5+5";
 
             var result = homeController.Calcul(calcul);
 
-            Assert.AreNotEqual(result, "2");
+            Assert.AreEqual(result, "10");
         }
     }
 }
