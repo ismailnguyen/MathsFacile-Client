@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathsFacileClient.Console",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathsFacileClient.Web", "MathsFacileClient.Web\MathsFacileClient.Web.csproj", "{AAF916A0-AD4E-4ED4-A416-5ABDE5E0000D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathsFacileClient.Tests", "MathsFacileClient.Tests\MathsFacileClient.Tests.csproj", "{AFF45D69-2A47-4371-AF51-1A675971C00B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AAF916A0-AD4E-4ED4-A416-5ABDE5E0000D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAF916A0-AD4E-4ED4-A416-5ABDE5E0000D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAF916A0-AD4E-4ED4-A416-5ABDE5E0000D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF45D69-2A47-4371-AF51-1A675971C00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF45D69-2A47-4371-AF51-1A675971C00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF45D69-2A47-4371-AF51-1A675971C00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF45D69-2A47-4371-AF51-1A675971C00B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
