@@ -53,5 +53,17 @@ namespace MathsFacileClient.Tests
 
             Assert.AreNotEqual(result, "1");
         }
+
+        [TestMethod]
+        public void Should_fail()
+        {
+            var homeController = new HomeController();
+
+            var calcul = "5";
+
+            var result = homeController.Calcul(calcul);
+
+            Assert.AreNotEqual(result, "2");
+        }
     }
 }
