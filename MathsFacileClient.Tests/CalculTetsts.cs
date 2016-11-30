@@ -55,11 +55,11 @@ namespace MathsFacileClient.Tests
         }
 
         [TestMethod]
-        public void Should_fail()
+        public void Should_not_fail()
         {
             var homeController = new HomeController();
 
-            var calcul = "2/5";
+            var calcul = "2*5";
 
             var result = homeController.Calcul(calcul);
 
