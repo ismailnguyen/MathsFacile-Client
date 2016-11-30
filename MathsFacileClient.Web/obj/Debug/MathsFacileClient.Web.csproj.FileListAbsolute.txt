@@ -81,3 +81,17 @@ C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\Mic
 C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\obj\Debug\MathsFacileClient.Web.dll
 C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\obj\Debug\MathsFacileClient.Web.pdb
 C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\obj\Debug\MathsFacileClient.Web.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\roslyn\csc.exe.config
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\roslyn\csc.rsp
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\roslyn\csi.exe
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\roslyn\csi.rsp
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\roslyn\vbc.exe.config
+C:\Users\Ismail\Documents\GitHub\MathsFacileClient\MathsFacileClient.Web\bin\roslyn\vbc.rsp
